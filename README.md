@@ -1,6 +1,6 @@
 # sippa_mobile
 
-A new Flutter project.
+SISTEM PEMBERIAN PAKAN AYAM
 
 ## Getting Started
 
